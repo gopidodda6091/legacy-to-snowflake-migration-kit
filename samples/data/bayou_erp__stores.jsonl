@@ -1,0 +1,25 @@
+{"STORE_ID": 1, "STORE_NAME": "Magnolia Crawfish Pirogue Magnolia Crawfish Cypress", "CITY": "Baton Rouge", "STATE_CODE": "MS", "OPENED_ON": "2026-03-19 18:43:29", "SQUARE_FEET": 8679, "IS_ACTIVE": "N"}
+{"STORE_ID": 2, "STORE_NAME": "Magnolia Gumbo Magnolia Gumbo Crawfish", "CITY": "Mobile", "STATE_CODE": "LA", "OPENED_ON": "2026-03-18 23:33:29", "SQUARE_FEET": 5915, "IS_ACTIVE": "N"}
+{"STORE_ID": 3, "STORE_NAME": "Marsh Magnolia Cypress Crawfish", "CITY": "Biloxi", "STATE_CODE": null, "OPENED_ON": "2026-03-14 13:53:51", "SQUARE_FEET": 8275, "IS_ACTIVE": "N"}
+{"STORE_ID": 4, "STORE_NAME": "Bayou Crawfish Bayou Delta Levee", "CITY": "Mobile", "STATE_CODE": "LA", "OPENED_ON": "2026-03-30 19:35:26", "SQUARE_FEET": 9483, "IS_ACTIVE": "N"}
+{"STORE_ID": 5, "STORE_NAME": "Levee Crawfish", "CITY": "Baton Rouge", "STATE_CODE": "LA", "OPENED_ON": "2026-03-22 03:12:43", "SQUARE_FEET": null, "IS_ACTIVE": "Y"}
+{"STORE_ID": 6, "STORE_NAME": "Levee Cypress Levee", "CITY": "Biloxi", "STATE_CODE": "LA", "OPENED_ON": "2026-03-08 03:04:21", "SQUARE_FEET": 8738, "IS_ACTIVE": "Y"}
+{"STORE_ID": 7, "STORE_NAME": "Pirogue Delta Cypress", "CITY": "Lake Charles", "STATE_CODE": "AL", "OPENED_ON": "2026-03-29 19:39:26", "SQUARE_FEET": 76, "IS_ACTIVE": "Y"}
+{"STORE_ID": 8, "STORE_NAME": "Pirogue Marsh Crawfish Cypress", "CITY": "Baton Rouge", "STATE_CODE": "AL", "OPENED_ON": "2026-03-27 10:01:23", "SQUARE_FEET": 4496, "IS_ACTIVE": "N"}
+{"STORE_ID": 9, "STORE_NAME": "Cypress Marsh", "CITY": "Houma", "STATE_CODE": "LA", "OPENED_ON": "2026-03-17 19:21:32", "SQUARE_FEET": 6461, "IS_ACTIVE": "Y"}
+{"STORE_ID": 10, "STORE_NAME": "Crawfish Crawfish Cypress Bayou Pirogue", "CITY": "Houma", "STATE_CODE": "MS", "OPENED_ON": "2026-03-11 21:18:07", "SQUARE_FEET": 2753, "IS_ACTIVE": "Y"}
+{"STORE_ID": 11, "STORE_NAME": "Bayou Bayou Delta Crawfish Marsh", "CITY": "Lake Charles", "STATE_CODE": "AL", "OPENED_ON": "2026-03-03 06:22:44", "SQUARE_FEET": 7148, "IS_ACTIVE": "N"}
+{"STORE_ID": 12, "STORE_NAME": "Pirogue Levee Bayou Bayou Gumbo", "CITY": "Biloxi", "STATE_CODE": "MS", "OPENED_ON": null, "SQUARE_FEET": 1075, "IS_ACTIVE": "Y"}
+{"STORE_ID": 13, "STORE_NAME": "Bayou Pelican Bayou Magnolia Gumbo", "CITY": "Mobile", "STATE_CODE": "TX", "OPENED_ON": "2026-03-03 12:27:31", "SQUARE_FEET": 2112, "IS_ACTIVE": "Y"}
+{"STORE_ID": 14, "STORE_NAME": "Pelican Marsh Pirogue Pelican", "CITY": "Thibodaux", "STATE_CODE": "LA", "OPENED_ON": "2026-03-15 12:39:47", "SQUARE_FEET": 4528, "IS_ACTIVE": "N"}
+{"STORE_ID": 15, "STORE_NAME": "Levee Marsh Delta Magnolia Crawfish Crawfish", "CITY": "Lake Charles", "STATE_CODE": "TX", "OPENED_ON": null, "SQUARE_FEET": 1786, "IS_ACTIVE": "Y"}
+{"STORE_ID": 16, "STORE_NAME": "Magnolia Delta Delta Marsh Delta", "CITY": "Lafayette", "STATE_CODE": "TX", "OPENED_ON": "2026-03-16 20:24:08", "SQUARE_FEET": 2235, "IS_ACTIVE": "N"}
+{"STORE_ID": 17, "STORE_NAME": "Bayou Bayou", "CITY": null, "STATE_CODE": "AL", "OPENED_ON": "2026-03-25 18:48:21", "SQUARE_FEET": 8021, "IS_ACTIVE": "N"}
+{"STORE_ID": 18, "STORE_NAME": "Cypress Gumbo Delta Marsh", "CITY": "Mobile", "STATE_CODE": "TX", "OPENED_ON": "2026-03-23 15:23:54", "SQUARE_FEET": 8801, "IS_ACTIVE": "N"}
+{"STORE_ID": 19, "STORE_NAME": "Bayou Pelican", "CITY": "Lafayette", "STATE_CODE": "LA", "OPENED_ON": "2026-03-14 23:53:56", "SQUARE_FEET": 3784, "IS_ACTIVE": "Y"}
+{"STORE_ID": 20, "STORE_NAME": "Pirogue Crawfish Cypress Delta Crawfish Bayou", "CITY": "Thibodaux", "STATE_CODE": "LA", "OPENED_ON": "2026-03-19 09:07:04", "SQUARE_FEET": 134, "IS_ACTIVE": "Y"}
+{"STORE_ID": 21, "STORE_NAME": "Cypress Gumbo Gumbo Pelican Pirogue Cypress", "CITY": "Baton Rouge", "STATE_CODE": "TX", "OPENED_ON": "2026-03-14 23:46:47", "SQUARE_FEET": null, "IS_ACTIVE": "N"}
+{"STORE_ID": 22, "STORE_NAME": "Bayou Marsh Pirogue Bayou", "CITY": "Houma", "STATE_CODE": "AL", "OPENED_ON": "2026-03-14 08:59:00", "SQUARE_FEET": 3669, "IS_ACTIVE": "N"}
+{"STORE_ID": 23, "STORE_NAME": "Levee Pelican Crawfish", "CITY": "Lafayette", "STATE_CODE": "AL", "OPENED_ON": "2026-03-11 20:57:31", "SQUARE_FEET": null, "IS_ACTIVE": "Y"}
+{"STORE_ID": 24, "STORE_NAME": "Marsh Bayou Crawfish Marsh", "CITY": "Thibodaux", "STATE_CODE": "TX", "OPENED_ON": "2026-03-04 07:43:05", "SQUARE_FEET": 2690, "IS_ACTIVE": "Y"}
+{"STORE_ID": 25, "STORE_NAME": "Delta Magnolia", "CITY": "Baton Rouge", "STATE_CODE": "TX", "OPENED_ON": "2026-03-27 02:21:28", "SQUARE_FEET": 8965, "IS_ACTIVE": "Y"}
