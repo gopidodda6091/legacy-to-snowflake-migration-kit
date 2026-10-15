@@ -1,0 +1,20 @@
+-- COPY INTO {{ database }}.{{ table.fqn }}
+-- Source: {{ table.dialect }} table {{ table.fqn }}, Parquet under @{{ database }}.{{ stage }}/{{ stage_path }}
+{% if table.partition_columns %}
+-- Hive partition columns ({{ table.partition_columns | join(', ') }}) are read from the file path.
+{% endif %}
+COPY INTO {{ database }}.{{ table.fqn }} (
+{% for col in columns %}
+    {{ col.name }}{{ "," if not loop.last }}
+{% endfor %}
+)
+FROM (
+    SELECT
+{% for col in columns %}
+        {{ col.expr }}{{ "," if not loop.last }}
+{% endfor %}
+    FROM @{{ database }}.{{ stage }}/{{ stage_path }}
+)
+FILE_FORMAT = (FORMAT_NAME = '{{ database }}.{{ file_format }}')
+PATTERN = '.*[.]parquet'
+ON_ERROR = ABORT_STATEMENT;
