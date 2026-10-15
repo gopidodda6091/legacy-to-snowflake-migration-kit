@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "legacy-to-snowflake-migration-kit"
+version = "0.1.0"
+description = "Translate, load and reconcile Hive/Oracle tables into Snowflake (DuckDB locally)"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "sqlglot==25.24.5",
+    "pyarrow==18.1.0",
+    "duckdb==1.1.3",
+    "jinja2==3.1.4",
+    "pytz==2024.2",  # duckdb needs it to return TIMESTAMPTZ values to Python
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.3.3", "ruff==0.7.4"]
+
+[project.scripts]
+migrate = "migrate.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "N", "SIM", "RUF"]
